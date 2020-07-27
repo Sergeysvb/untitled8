@@ -20,7 +20,6 @@ public class MyWindow extends JFrame { // JFrame это класс позвол�
         btn1.addActionListener(new ActionListener() { // Задали функцию которую кнопка будет выполнять. Для этого нужно создать класс в котором будет реализация кнопки.
             @Override
             public void actionPerformed(ActionEvent e) {
-
             }
         });
 
